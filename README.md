@@ -9,7 +9,7 @@ Hi, I'm **Kalpak Kamble** – a passionate **developer** with experience in **fu
 - **Other Tools:** Git, Pandas, NumPy, OpenCV, PyTorch, REST APIs  
 
 ## 📌 Notable Projects  
-- 🔹 **[AI Code Review App](https://github.com/Mech-Kal/ai-code-review)** – AI-powered full-stack application for real-time code analysis and feedback  
+- 🔹 **[AI Code Review App](https://github.com/Mech-Kal/ai-code-review-app)** – AI-powered full-stack application for real-time code analysis and feedback  
 - 🔹 **[Object Detection App](https://github.com/Mech-Kal/object-detection-app)** – YOLOv5-based image processing with Tkinter GUI  
 - 🔹 **[WhatsApp Message Automation](https://github.com/Mech-Kal/whatsapp-message-automation)** – Automates sending personalized WhatsApp messages using Excel data  
 - 🔹 **[Inventory Management System](https://github.com/Mech-Kal/inventory-management)** – Java Swing-based inventory tracking with file handling  
